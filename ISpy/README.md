@@ -1,4 +1,4 @@
-# LookupTool — Black Terminal Network Toolbox (v9)
+# ISpy 0.24.6 
 
 A portable, **Python + Tkinter** app that looks like a black terminal and gives you a focused set of network + OSINT helpers.
 It’s privacy‑first (offline where possible), with clear prompts when showing sensitive results.
@@ -149,17 +149,6 @@ A: Yes. Breach checks are offline on your local lists. Social/IP/WHOIS fetch dat
 
 **Q: Will you add online breach APIs?**
 A: Can be added behind a clear toggle. By default we stay offline for privacy.
-
----
-
-## Version Highlights
-
-- **v9**: Complete README rewrite, consolidated instructions.
-- **v8**: Wider Social Lookup + richer metadata.
-- **v7**: Stable imports, only two launchers, auto‑install `requirements.txt`.
-- **v6**: Robust launcher pathing (fixed module import issues).
-- **v5**: Preflight checks + logging; debug launcher keeps window open on errors.
-- **v1–4**: Core tools, breach scanning, sources UI, compressed/zip support.
 
 ---
 
