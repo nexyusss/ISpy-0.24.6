@@ -1,0 +1,4 @@
+email,username,domain,source,password_hash
+eve@sample.net,eve,,ExampleBreach,5f4dcc3b5aa765d61d8327deb882cf99
+,dragonlord,gamehub.com,GameHub-2019,
+mary@workmail.com,mary,mwork.com,OfficeDump-2021,$2y$10$abcdefghijklmnopqrstuv

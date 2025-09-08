@@ -1,0 +1,10 @@
+# Fictional 'Collection' combo list sample (emails/usernames/domains)
+# emails
+sarah.connor@gmail.com
+mike1987@hotmail.com
+# usernames
+rootedwolf
+pixel_ninja
+# domains
+example-learn.io
+dev-forum.net

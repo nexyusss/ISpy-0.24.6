@@ -1,0 +1,9 @@
+{
+  "hibp_api_key": "",
+  "use_hibp_email_scan": false,
+  "capture_rotate": {
+    "duration_sec": 60,
+    "filesize_mb": 20,
+    "files": 5
+  }
+}

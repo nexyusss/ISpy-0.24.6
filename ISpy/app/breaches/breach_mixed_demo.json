@@ -1,0 +1,19 @@
+[
+  {
+    "email": "dev@dev-portal.app",
+    "domain": "dev-portal.app",
+    "source": "DevPortal-2021"
+  },
+  {
+    "username": "shadowcat",
+    "source": "GameBoard-2017"
+  },
+  {
+    "email": "ops@ci-cd.tools",
+    "source": "ToolChain-2022",
+    "password_hash": "$2y$10$abcdefghijklmnopqrstuv"
+  },
+  "plainuser42",
+  "no_reply@notifications.mail",
+  "company-data.org"
+]

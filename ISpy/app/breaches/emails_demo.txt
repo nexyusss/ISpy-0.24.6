@@ -1,0 +1,7 @@
+# Sample breach email list (demo). Add your own big lists here.
+# One value per line. Lines starting with # are comments.
+# Example values:
+test@example.com
+alice@example.org
+user123@gmail.com
+john.smith@yahoo.com

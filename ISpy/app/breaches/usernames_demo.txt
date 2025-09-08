@@ -1,0 +1,6 @@
+# Sample usernames exposed in assorted breaches (demo).
+# One per line.
+admin
+user123
+coolguy
+johnsmith
